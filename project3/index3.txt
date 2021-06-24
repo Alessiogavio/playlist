@@ -1,6 +1,0 @@
-hello
-#directory
-temp
-
-#files
-#.log
